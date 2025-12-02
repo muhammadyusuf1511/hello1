@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+h1{
+    display: flex;
+  align-items: center;    /* vertikal markazlash */
+  justify-content: center;/* gorizontal markazlash */
+  height: 100vh;          /* butun ekran bo'ylab */
+  font-size: 4rem;        /* yozuv kattaligi */
+  font-weight: 700;
+}
